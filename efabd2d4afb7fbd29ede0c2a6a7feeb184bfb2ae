@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "452cad88_99f83ddf",
+        "filename": "common/private/seapp_contexts",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1375
+      },
+      "writtenOn": "2019-01-01T11:09:32Z",
+      "side": 1,
+      "message": "we don\u0027t have LOS snap, so change to org.codeaurora.snapcam or add that in a second commit?",
+      "range": {
+        "startLine": 1,
+        "startChar": 46,
+        "endLine": 1,
+        "endChar": 64
+      },
+      "revId": "efabd2d4afb7fbd29ede0c2a6a7feeb184bfb2ae",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b",
+      "unresolved": true
+    }
+  ]
+}
