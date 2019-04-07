@@ -25,3 +25,6 @@ allow update_engine toolbox_exec:file { execute getattr };
 # Allow transition to backuptool domain
 allow update_engine self:process setexec;
 domain_trans(update_engine, otapreopt_chroot_exec, backuptool)
+
+allow update_engine backuptool:process noatsecure;
+allow update_engine media_rw_data_file:file { open read getattr };
