@@ -1,4 +1,14 @@
 type jamesdsp, coredomain, domain;
 type jamesdsp_exec, exec_type, file_type;
+type jamesdsp_lib, file_type;
 
 init_daemon_domain(jamesdsp)
+
+# Allow execute init.jamesdsp.sh
+allow jamesdsp jamesdsp_exec:file { rx_file_perms entrypoint };
+
+# Allow to remount vendor as rw
+allow jamesdsp jamesdsp_lib:dir mounton;
+
+# Allow to touch libjamesdsp.so in /vendor
+allow jamesdsp jamesdsp_lib:file { create write };
