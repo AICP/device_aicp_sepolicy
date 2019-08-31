@@ -16,6 +16,24 @@
       "revId": "26024ec5be4b10f24ce7f08c3c4972c30d575fd5",
       "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "3930d0bb_c867a294",
+        "filename": "common/private/backuptool.te",
+        "patchSetId": 4
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1587
+      },
+      "writtenOn": "2019-08-31T18:40:23Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "d6f92854_1b6be3af",
+      "revId": "26024ec5be4b10f24ce7f08c3c4972c30d575fd5",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b",
+      "unresolved": false
     }
   ]
 }
