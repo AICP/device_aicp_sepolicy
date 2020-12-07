@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "66421f6b_3fbc6f3e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1375
+      },
+      "writtenOn": "2020-12-07T06:57:28Z",
+      "side": 1,
+      "message": "topic seems to work fine, so gtg imo",
+      "revId": "661d3e777059ec1700062d902d5b97131b4fea5b",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    }
+  ]
+}
