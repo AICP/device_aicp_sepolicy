@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2b11255e_04abc75c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1375
+      },
+      "writtenOn": "2021-01-17T20:25:02Z",
+      "side": 1,
+      "message": "not sure, if this is correct. We use  same perms like LOS.",
+      "revId": "b7537e091d9b93fc23c5c5a13e0225069c6367fc",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    }
+  ]
+}
