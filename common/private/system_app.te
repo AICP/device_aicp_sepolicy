@@ -1,5 +1,8 @@
 #selinux status
 allow system_app selinuxfs:file r_file_perms;
 
+# Allow system_app to open system_data_file
+allow system_app system_data_file:file open;
+
 # Allow SetupWizard to set recovery update prop
 set_prop(system_app, recovery_update_prop)
