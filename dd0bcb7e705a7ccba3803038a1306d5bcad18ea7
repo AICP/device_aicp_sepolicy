@@ -16,6 +16,24 @@
       "message": "don\u0027t think we should allow this. Maybe better label this",
       "revId": "dd0bcb7e705a7ccba3803038a1306d5bcad18ea7",
       "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "bf68991a_d463dd04",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 6
+      },
+      "writtenOn": "2021-01-20T09:12:56Z",
+      "side": 1,
+      "message": "I agree. Also, I presume a system_app can already access its system_data_file.",
+      "parentUuid": "ee08377c_96e7a050",
+      "revId": "dd0bcb7e705a7ccba3803038a1306d5bcad18ea7",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
     }
   ]
 }
