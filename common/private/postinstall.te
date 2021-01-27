@@ -1,0 +1,3 @@
+allow postinstall block_device:dir search;
+allow postinstall dm_device:blk_file getattr;
+allow postinstall rootfs:dir { open read };
