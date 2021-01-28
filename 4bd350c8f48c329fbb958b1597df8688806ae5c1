@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f7c0e120_573be462",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 3
+      },
+      "writtenOn": "2021-01-28T14:32:00Z",
+      "side": 1,
+      "message": "not enough for flashing from Local storage. Still fails on enforcing...",
+      "revId": "4bd350c8f48c329fbb958b1597df8688806ae5c1",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    }
+  ]
+}
