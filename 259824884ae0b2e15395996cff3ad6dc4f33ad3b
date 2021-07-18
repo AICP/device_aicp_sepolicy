@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e361197a_007dca76",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 3
+      },
+      "writtenOn": "2021-07-18T15:38:18Z",
+      "side": 1,
+      "message": "We don\u0027t build vendor part in device_aicp_sepolicy at all. \nThese are defined in device_lineage_sepolicy. So no go to move them for now.",
+      "revId": "259824884ae0b2e15395996cff3ad6dc4f33ad3b",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    }
+  ]
+}
