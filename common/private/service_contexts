@@ -7,3 +7,5 @@ optimizedcharge                           u:object_r:optimizedcharge_service:s0
 dc_dim_service                            u:object_r:dc_dimming_service:s0
 # App Lock
 app_lock                                  u:object_r:app_lock_service:s0
+# ADB Root
+adbroot_service                           u:object_r:adbroot_service:s0
