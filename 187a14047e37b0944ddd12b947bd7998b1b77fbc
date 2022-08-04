@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "82cc678f_cdc3b0d9",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 3
+      },
+      "writtenOn": "2022-08-04T12:32:43Z",
+      "side": 1,
+      "message": "we have the rest from this topic: https://gerrit.aospa.co/q/topic:paranoid-hub-sapphire",
+      "revId": "187a14047e37b0944ddd12b947bd7998b1b77fbc",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    }
+  ]
+}
