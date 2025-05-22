@@ -1,4 +1,4 @@
-allow update_engine self:capability { dac_override dac_read_search sys_rawio };
+#allow update_engine self:capability { dac_override dac_read_search sys_rawio };
 
 # Allow to install OTA's from local storage
 allow update_engine backuptool:process noatsecure;
