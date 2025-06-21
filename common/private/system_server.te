@@ -10,3 +10,6 @@ add_service(system_server, app_lock_service);
 
 # Optimized Charge Control
 hal_client_domain(system_server, hal_chargecontrol);
+
+# Charging
+allow system_server sysfs_battery_supply:file r_file_perms;
