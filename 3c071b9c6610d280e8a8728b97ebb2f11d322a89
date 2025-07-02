@@ -16,6 +16,23 @@
       "message": "we need to move that into DT",
       "revId": "3c071b9c6610d280e8a8728b97ebb2f11d322a89",
       "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d51854e6_0e35a5af",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 209
+      },
+      "writtenOn": "2025-07-02T18:11:37Z",
+      "side": 1,
+      "message": "Fixes shiba build",
+      "revId": "3c071b9c6610d280e8a8728b97ebb2f11d322a89",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
     }
   ]
 }
